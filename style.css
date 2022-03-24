@@ -1,0 +1,20 @@
+body {
+  background-image: url("drm.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(75%);
+  height: 420px;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+#text {
+  border-right: solid white 4px;
+  height: 35px;
+  font-weight: 400;
+  font-family: "Satisfy", cursive;
+}
